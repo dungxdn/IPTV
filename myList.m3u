@@ -1,3 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="VTV", 1 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="xxx", 1 
 http://172.104.114.178/vod/live/2/1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="xxx", 2 
+http://172.104.114.178/vod/live/2/2.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="xxx", 3 
+http://172.104.114.178/vod/live/2/3.m3u8
